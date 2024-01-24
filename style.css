@@ -1,3 +1,11 @@
 .my-gradient-background {
     background-image: linear-gradient(to right, #355e3b , #228b22, #4cbb17, #39ff14, #7fff00);
 }
+
+.my-img-zoom {
+    transition: 0.5s all ease-in-out;
+}
+
+.my-img-zoom:hover {
+    transform: scale(1.1);
+}
