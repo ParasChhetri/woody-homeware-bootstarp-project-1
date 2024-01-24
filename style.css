@@ -2,6 +2,15 @@
     background-image: linear-gradient(to right, #355e3b , #228b22, #4cbb17, #39ff14, #7fff00);
 }
 
+.my-box-shadow {
+    box-shadow: 2px 2px 2px 2px white,
+    -2px -2px 4px white;
+}
+
+.my-bg-color {
+    background-color: #BEFFF7;
+}
+
 .my-img-zoom {
     transition: 0.5s all ease-in-out;
 }
